@@ -1,4 +1,4 @@
-# Audio-e-book-reade
+# Audio-e-book-reader
 
 📚 Audio E-Book Reader
 
